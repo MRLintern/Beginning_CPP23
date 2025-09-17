@@ -47,11 +47,11 @@ int main() {
 }
 
 * Now compile and build the executable:
-```ansi
-[32m$[0m g++ -std=c++23 -fmodules -fsearch-include-path bits/std.cc -c -o std.o
-[32m$[0m g++ -std=c++23 -fmodules main.cpp -o main
-[32m$[0m ls
+```bash
+$ g++ -std=c++23 -fmodules -fsearch-include-path bits/std.cc -c -o std.o
+$ g++ -std=c++23 -fmodules main.cpp -o main
+$ ls
 gcm.cache  main  main.cpp  std.o
-[32m$[0m ./main
+$ ./main
 The atomic mass of a neutral sodium atom is 23.
 A sodium atom has 11 electrons, 11 protons and 12 neutrons.
