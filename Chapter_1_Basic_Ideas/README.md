@@ -47,6 +47,7 @@ int main() {
 }
 
 * Now compile and build the executable:
+
 ```bash
 $ g++ -std=c++23 -fmodules -fsearch-include-path bits/std.cc -c -o std.o
 $ g++ -std=c++23 -fmodules main.cpp -o main
