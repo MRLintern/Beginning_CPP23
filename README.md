@@ -17,7 +17,7 @@
 
 ## Compiling
 ---
-* `Modules` are used throughout. I.e. from the get-go, `modules` will be used: E.g. `import std`.
+* `Modules` are used throughout. I.e. from the get-go, `modules` will be used: E.g. `import std;`.
 * This will require will require a number of steps to compile and build the executable; see below to see how to do this:
 * Build `std module interface`:
 * `$ g++ -std=c++23 -fmodules -fsearch-include-path bits/std.cc -c -o std.o`
