@@ -6,6 +6,7 @@
 * This is a "tutorial" of sorts which teaches `C++23` using the book, ___Beginning C++23___ by __Ivor Horton__ and __Peter Van Weert__.
 * The book is pretty good in my opinion, however, I feel it lacks detail r.e. __compiling__ the software from the start.
 * This is the general `README.md` for this project. A `README.md` will be used for every chapter, with notes explaining the code and the theory behind it.
+* Note: you can find the source code from the official repository for the book (here)[https://github.com/MRLintern/beginning-cpp23].
 
 ## Requirements
 ---
