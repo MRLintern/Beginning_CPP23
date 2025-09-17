@@ -13,7 +13,7 @@
 * __OS__: `Linux (Ubuntu 20.04)`.
 * __CMake__: `version 4.0.2`.
 * __Text Editor__: any will do: e.g. `Sublime Text`, which I've used. Or,
-* __IDE__: e.g., `Code::Blocks`, which can be used on both `Linux` or `Windows`. If you're on `Windows 10/11`, you can use `Visual Studio`.
+* __IDE__: e.g., `Code::Blocks`, which can be used on both `Linux` and `Windows`. If you're on `Windows 10/11`, you can use `Visual Studio`.
 
 ## Compiling
 ---
