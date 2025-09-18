@@ -1,4 +1,4 @@
-# Beginning C++23 - Scientists and Engineers
+# Beginning C++23 - For Scientists and Engineers
 ---
 
 ## Introduction
