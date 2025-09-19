@@ -46,7 +46,7 @@ int main() {
     return 0;
 }
 ```
-* Now compile the source file `main.cpp`, run the executable and see the output:
+* Now compile the source file `main.cpp`, run the executable `main` and see the output:
 ```cpp
 $ g++ -std=c++23 -fmodules -fsearch-include-path bits/std.cc -c -o std.o
 $ g++ -std=c++23 -fmodules main.cpp -o main
