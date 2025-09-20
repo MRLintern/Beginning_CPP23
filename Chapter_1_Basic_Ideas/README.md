@@ -141,7 +141,7 @@ A sodium atom has 11 electrons, 11 protons and 12 neutrons.
 * If you omit `import std;` you wouldn't be able to use, for example, `std::println()`.
 * The `std` module is new in `C++23`.
 * Before `C++23`, you had to know what you wanted to use from the `std` library.
-* For example, if you wanted to use `std::println()` you had to import by doing `#include <print>`.
+* For example, if you wanted to use `std::println()` you had to import this by doing `#include <print>`.
 
 #### Functions
 ---
